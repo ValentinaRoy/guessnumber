@@ -1,0 +1,24 @@
+*{
+    background: rgba(193, 193, 193, 0.625);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.container{
+    margin: 25px 0 0 300px;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/710/467/622/digital-art-cgi-3d-question-mark-minimalism-hd-wallpaper-preview.jpg");
+    width: 900px;
+    height: 700px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    background-position: center;
+    
+}
+
+.box>button:hover{
+    box-shadow: 2px 1px 0px black;
+}
